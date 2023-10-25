@@ -1,6 +1,5 @@
 ## Hello, I'm Olivia 👋 
 
-* 🌱 Currently learning about Data Structures and Algorithms
 * 🔭 Completed 42 Paris Common Core
 * 👨🏽‍🎓 Graduated from Paris Dauphine University
 * 💻 Check out: https://owalsh.fr/
