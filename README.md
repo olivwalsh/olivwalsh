@@ -2,7 +2,6 @@
 
 * 🔭 Completed 42 Paris Common Core
 * 👨🏽‍🎓 Graduated from Paris Dauphine University
-* 💻 Check out: https://owalsh.fr/
 * 📫 Reach me at owalsh@student.42.fr or on <a href="https://www.linkedin.com/in/oliviaclarisse-walsh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliviawalsh" height="15" width="20" /></a>
 
 ### 42 stats
